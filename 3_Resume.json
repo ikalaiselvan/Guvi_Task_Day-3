@@ -1,0 +1,27 @@
+{
+    "resume" : {
+        "Profile": {
+            "Name" : "Kalaiselvan P",
+            "FatherName" : "Ponmudi",
+            "Email" : "kalai121@gmail.com",
+            "Gender" : "Male"
+        },
+        "Education" : {
+            "Qualification" : "Diploma",
+            "College" : "Government Polytechnic college in Ooty",
+            "Department" : "Instrumentation and Control Engineering"
+        },
+        "Experience" : {
+            "Field" : "Electrical",
+            "Grade" : "Engineer",
+            "Year" : "7 Years",
+            "Location" : ["Tamilnadu, Andrapradesh, Telangana"]
+        },
+        "Address" : "Periyeri Vill, Thiruvannamalai dist, Tamilnadu",
+        "LanguageKnown" : ["Tamil, Telugu, English, Hindi"],
+        "Hobbies" : "Playing cricket, watching movie",
+        "MaritalStatus" : "Married",
+        "Residing" : "Avadi",
+        "Course conducting" : "Full stak development in GUVI Geeks"
+    }
+}
